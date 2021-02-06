@@ -1,3 +1,5 @@
+this is the 0th line of the text
+
 This is the new line for pulling the data
 
 This is the first line of the file
