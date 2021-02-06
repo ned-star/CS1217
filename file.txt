@@ -1,11 +1,1 @@
 this is the 0th line of the text
-
-This is the new line for pulling the data
-
-This is the first line of the file
-
-This is the new file line
-
-
-
-I'm adding a new line for testing the git pull command
