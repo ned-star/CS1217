@@ -1,3 +1,5 @@
 this is the 0th line of the text
 
 This is the new file added via VM clone.
+
+this is the new line added for the second time for the VM program.
